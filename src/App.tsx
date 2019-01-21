@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { default as sessions } from './pages/sessions';
+import { default as pageIndex } from './pageIndex';
 import { HtmlRenderer, Parser } from 'commonmark';
 
 class App extends React.Component {
@@ -8,7 +8,7 @@ class App extends React.Component {
   };
 
 
-  public setMarkDown = (md: string) => () => {
+  public setMarkDown = (md: string) => {
     const parser = new Parser();
     const renderer = new HtmlRenderer();
     this.setState({
@@ -16,23 +16,35 @@ class App extends React.Component {
     });
   }
 
+  public getMarkdown = (category: string, name: string) => () => {
+    fetch(`/pages/${category}/${name}.md`)
+      .then((response) => response.text())
+      .then((mystring: string) => {
+        this.setMarkDown(mystring);
+      });
+  }
+
   public renderListView() {
     return (
       <dl>
-        <dt><h4>Sessions</h4></dt>
-        { sessions.map(session => (
-          <dd key={session.id}>
-            <a href="#" onClick={this.setMarkDown(session.text)}>
-              {session.label}
-            </a>
-          </dd>
-        ))}
+        { pageIndex.map((category => (
+          <React.Fragment key={category.id}>
+            <dt><h4>Sessions</h4></dt>
+            { category.subcontent.map(session => (
+              <dd key={session.id}>
+                <a href="#" onClick={this.getMarkdown(category.id, session.id)}>
+                  {session.label}
+                </a>
+              </dd>
+            ))
+            }
+          </React.Fragment>
+        )))}
       </dl>
     );
   }
 
   public render() {
-    console.log(sessions);
     return (
       <div className="container" style={{ maxWidth: '100vw' }}>
         <div className="row">

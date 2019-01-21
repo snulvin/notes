@@ -1,0 +1,9 @@
+__**Session 1**__:
+
+ The A-Squad traveled to Stonewood, as they had been contacted by a currier with a mysterious message. Someone that knew information that could help them clear their names would contact them in Stonewood.
+
+Upon arriving in Stonewood the A-Squad were confronted with 4 Bandits stabbing and stealing a satchel of an old man. The group defeated the bandits, but their leader arrived and used a smoke bomb to escape with the satchel and the 2 bandits still alive.
+
+The dagger that stabbed the old man turned out to be poisoned and the A-squad made their way into the forest to seak out an old woman named Old Olga, reknown for her high level alchemy. There they recieved a potions that required the blood of a relative to work. The group returned to Stonewood and administered the medicine with the help of the old mans daughter. The man immediately started to breath calmer and the corruption around the wound started to shrink.
+
+As the A-squad celebrated this in the tavern they learn of a spider infested cave. The locals where afraid that children would visit the cave and be poisioned by the spiders. The A-squad decided to clear out the cave. In the depths of the cave the group came upon a sarchophagus with an inscription to Othar Brightshield, that fell in the war. A smaller runestone held an inscription about the group the burried him wanting to return after the war to carry his heirloom to his familiy. Upon opening the sarchophagus the group found a beautiful warhammer with the inscription "Bakrus", upon taking the hammer a sound clung through the minds of the group "Return me to my home"
