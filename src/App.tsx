@@ -1,6 +1,8 @@
 import * as React from 'react';
 import { default as pageIndex } from './pageIndex';
 import { HtmlRenderer, Parser } from 'commonmark';
+import {Col, Grid, Nav, NavDropdown, Row} from 'react-bootstrap';
+import * as MenuItem from 'react-bootstrap/lib/MenuItem';
 
 class App extends React.Component {
   public state = {
@@ -24,40 +26,39 @@ class App extends React.Component {
       });
   }
 
-  public renderListView() {
+  public renderMobileList() {
     return (
-      <dl>
+      <Nav bsStyle="tabs" activeKey="1">
         { pageIndex.map((category => (
-          <React.Fragment key={category.id}>
-            <dt><h4>Sessions</h4></dt>
+          <NavDropdown key={category.id} eventKey={category.id} title={category.label} id={category.id}>
             { category.subcontent.map(session => (
-              <dd key={session.id}>
-                <a href="#" onClick={this.getMarkdown(category.id, session.id)}>
-                  {session.label}
-                </a>
-              </dd>
-            ))
-            }
-          </React.Fragment>
+              <MenuItem key={session.id} eventKey={`${category.id}.${session.id}`} onClick={this.getMarkdown(category.id, session.id)}>
+                {session.label}
+              </MenuItem>
+            ))}
+          </NavDropdown>
         )))}
-      </dl>
+      </Nav>
     );
   }
 
   public render() {
     return (
-      <div className="container" style={{ maxWidth: '100vw' }}>
-        <div className="row">
-          <div className="column column-20">
-            {this.renderListView()}
-          </div>
-          <div className="column">
+      <Grid fluid>
+        <Row>
+          <Col xs={12} md={12}>
+            {this.renderMobileList()}
+          </Col>
+        </Row>
+        <Row>
+          <Col xs={12} md={12}>
             <div dangerouslySetInnerHTML={ {__html: this.state.post} } />
-          </div>
-        </div>
-      </div>
+          </Col>
+        </Row>
+      </Grid>
     );
   }
 }
 
 export default App;
+
