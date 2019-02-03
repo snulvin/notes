@@ -1,0 +1,17 @@
+__**Session 4:**__
+
+Early the following morning the A-Squad was summoned by John Parsons. John informed them that had commuicated with a informant he trusts, which had told him that the A-Squad was trustworthy. He asked them if they could stealthily oversee the meeting between him, the priestess Fiola Staff, Anton Miller and Henry Wheatfallow. The A-Squad accepted, and were promptly given some left over magic equipment from the war as reward.
+
+The A-Squad traveled to the meeting space, the ruins of an abandoned watch tower outside of town. Initially the meeting started as planned. But after a short while the meeting was interrupted by the bandits from the day before. The bandits instantly started attacking the participants of the meeting, except Anton Miller, and the A-Squad was forced to intervene.
+
+Early in the fight Anton Miller ran away as Lewis Bucket was seperated from the rest of the group, and even though he fought valiantly the might of the bandits were too much for one person and he was brought to his knees. The fight seemed to turn against the A-Squad as Fiola and John was stunned by a bomb and the Illusionist from the day before started casting spells at the group from the edge of the watchtower perimiter. However in the moment that the soul of Lewis left his body, he stood to his feet for a second and unleashed a mighty blast of shadow magic, blinding the remaining enemy combatants. With the enemies blinded the rest of the group was easily able to deal with the remaining combatants, except for the Illusionist that ran away on a Illusionary Steed.
+
+After the effect of the stun bomb wore off, Fiola used the magic within her only diamond to cast Revivify bringing Lewis back from the dead. Though he was alive once more, dying has left a permanent scar on his soul.
+
+After a short discussion the A-Squad, Fiola, John and Henry returned to Stonewood, there they agreed that the A-Squad would try to find and bring in Anton to jail. While passing through the market, the group was approached by the Shadowspare salesman they had talked to the day before, he informed them that Gordon Wheatfallow had returned earlier to buy more Shadowspark.
+
+The group traveled to the Miller's mill in search of Anton, to their suprise they where greeted by a smiling Anton. When the group confronted him, he seemed utterly confused to what was going on. He expressed that he knew nothing of a meeting going on an that he had been at the mill all morning. However he agreed to follow the group to the town guard to clear this whole thing up. 
+
+After having handed over Anton to John, the group contacted Silentfoot. Updating each other on their progress Silentfoot revealed that it appears that there seems to be an Horde infiltration cell behind the what is going on here and what happened in Kensington. But he has yet to discover their goal. The A-Squad asked Silentfoot if he could dig up some information about the history of Stonewood and Kensington to try and find some relation between the two. For now they agreed that the A-Squad would focus on trying to avoid escalations of the already tense relationship between the Millers and the Wheatfallows, as they fear that any escalation could give the horde cell an advantage.
+
+As Silentfoot departed the A-Squad headed out towards the Miller's mill, beliving that Gordon Wheatfallow intends to burn it down, an act that would surly lead to an escalation between the great families
