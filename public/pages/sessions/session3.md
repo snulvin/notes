@@ -1,4 +1,4 @@
-__**Session 3**__:
+__**Session 3**__
 
  While planning the A-Squad noticed a scouting group rotating the area, promptly dispatching with the group. The A-Squad stole the groups identity and infiltrated the camp. After gathering information for a while the group was able to figure out that the Bandits were celebrating that they had been hired by a blong person named Anton to assassinate someone named John Parsons. After having found the Satyr's Camembert the group departed.
 

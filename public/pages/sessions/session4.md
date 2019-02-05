@@ -1,4 +1,4 @@
-__**Session 4:**__
+__**Session 4**__
 
 Early the following morning the A-Squad was summoned by John Parsons. John informed them that had commuicated with a informant he trusts, which had told him that the A-Squad was trustworthy. He asked them if they could stealthily oversee the meeting between him, the priestess Fiola Staff, Anton Miller and Henry Wheatfallow. The A-Squad accepted, and were promptly given some left over magic equipment from the war as reward.
 

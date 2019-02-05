@@ -1,4 +1,4 @@
-__**Session 2**__:
+__**Session 2**__
 
  After a night of drinking in the tavern The A-Squad was awakened by someone entering their room in the morning. A slightly odd Halfling with an amazing southern accent, named Filibert Silentfoot.
 

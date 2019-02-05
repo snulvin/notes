@@ -1,4 +1,4 @@
-__**Session 1**__:
+__**Session 1**__
 
  The A-Squad traveled to Stonewood, as they had been contacted by a currier with a mysterious message. Someone that knew information that could help them clear their names would contact them in Stonewood.
 
