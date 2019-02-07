@@ -19,11 +19,32 @@ class App extends React.Component {
   }
 
   public getMarkdown = (category: string, name: string) => () => {
+    const urlParams = new URLSearchParams(window.location.search);
+
+    urlParams.set('category', category);
+    urlParams.set('name', name);
+
+    if (history.pushState) {
+      const newurl = window.location.protocol + '//' + window.location.host + window.location.pathname + '?' + urlParams.toString();
+      window.history.pushState({path:newurl},'',newurl);
+    }
+
     fetch(`/pages/${category}/${name}.md`)
       .then((response) => response.text())
       .then((mystring: string) => {
         this.setMarkDown(mystring);
       });
+  }
+
+  public componentWillMount = () => {
+    const urlParams = new URLSearchParams(window.location.search);
+
+    const category = urlParams.get('category');
+    const name = urlParams.get('name');
+
+    if (!!category && !!name) {
+      this.getMarkdown(category, name)();
+    }
   }
 
   public renderMobileList() {

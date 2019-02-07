@@ -10,5 +10,9 @@ export default [
       { 'id': 'session3', 'label': 'Session 3' },
       { 'id': 'session4', 'label': 'Session 4' },
     ]
+  },
+  { 'id': 'geography', 'label': 'Geography', 'subcontent': [
+      { 'id': 'titansvale', 'label': 'Titan\'s vale' },
+    ]
   }
 ];

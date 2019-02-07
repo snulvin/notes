@@ -1,8 +1,8 @@
-__**Backstory**__
+# Backstory
 
- In 2341 a unit of soldiers were sent to military prison for a crime they didn't commit, they promptly escaped from the maximum security stockades to the forest of Stonewood. To this day wanted by the army, they survive as mercenaries. If you have a problem and no one else can solve it, and you can find them, then maybe you can hire The A-squad.
+ >In 2341 a unit of soldiers were sent to military prison for a crime they didn't commit, they promptly escaped from the maximum security stockades to the forest of Stonewood. To this day wanted by the army, they survive as mercenaries. If you have a problem and no one else can solve it, and you can find them, then maybe you can hire The A-squad.
 
-__**The crime**__
+## The crime
 
  2 months prior the group was ordered out on what was supposed to be a routine guard mission in the town Kensington. Upon arriving there nothing was as it should have been, what should have been a triving little town laid destitude. The dead body of the villagers laid spread out accross the town, clearly dead by sword and magic.
 

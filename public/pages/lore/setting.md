@@ -1,4 +1,6 @@
-__**The Empire of Ellydor**__
+# Setting
+
+## The Empire of Ellydor
 
 Named after Ellydor the wealthy, who ruled Elysium, the Ruby City in the age of prosperity.
 
@@ -6,7 +8,7 @@ The dwarves dug deep into the the mountains of the Belt of the World, to drag up
 
 Centuries later the age of prosperity has ended, the heart of the mountain is bleed dry. The dynasty of the dwarves remain but it is weakened, so much that the wild races crossed the frozen desert during the last long summer to invade. Though their invasion failed, it has weakened the position of the dwarves. Now the emperor fears that his own people is plotting against him, under the veil of fighting corruption noble families have had their heads impaled on spikes for display. The commoners have given a name for the emperor, only spoken in whispers, Fladvik the Mad.
 
-__**The Wild Races**__
+## The Wild Races
 
 In contrast to the Empire of Ellydor stands the Wild Races, a losely organized group of the humanoid races from the Far Lands. Realatively little is known of their society, as Svelljord, the frozen desert, seperates their lands from the Empire of Ellydor.
 
