@@ -1,8 +1,7 @@
 import * as React from 'react';
 import { default as pageIndex } from './pageIndex';
 import { HtmlRenderer, Parser } from 'commonmark';
-import {Col, Grid, Nav, NavDropdown, Row} from 'react-bootstrap';
-import * as MenuItem from 'react-bootstrap/lib/MenuItem';
+import {Col, Container, Navbar, NavDropdown, Row} from 'react-bootstrap';
 
 class App extends React.Component {
   public state = {
@@ -49,23 +48,23 @@ class App extends React.Component {
 
   public renderMobileList() {
     return (
-      <Nav bsStyle="tabs" activeKey="1">
+      <Navbar>
         { pageIndex.map((category => (
           <NavDropdown key={category.id} eventKey={category.id} title={category.label} id={category.id}>
             { category.subcontent.map(session => (
-              <MenuItem key={session.id} eventKey={`${category.id}.${session.id}`} onClick={this.getMarkdown(category.id, session.id)}>
+              <NavDropdown.Item key={session.id} eventKey={`${category.id}.${session.id}`} onClick={this.getMarkdown(category.id, session.id)}>
                 {session.label}
-              </MenuItem>
+              </NavDropdown.Item>
             ))}
           </NavDropdown>
         )))}
-      </Nav>
+      </Navbar>
     );
   }
 
   public render() {
     return (
-      <Grid fluid>
+      <Container fluid>
         <Row>
           <Col xs={12} md={12}>
             {this.renderMobileList()}
@@ -76,7 +75,7 @@ class App extends React.Component {
             <div dangerouslySetInnerHTML={ {__html: this.state.post} } />
           </Col>
         </Row>
-      </Grid>
+      </Container>
     );
   }
 }
