@@ -1,4 +1,4 @@
-# Session 4
+# Session 5
 
 When the A-Squad arrived at the Miller's mill they decided that the best course of action was to lay a trap and wait for Gordon Wheatfallow. After a couple of hours spent setting up they were ready settled down to guard the area. Just past midnight their plan seemed to be a success as a person that seemed to be Gordon appeared heading for the mill with a torch. In an amazing feat of cooperation the group was able to tackle him to the ground without giving him a chance to react.
 
