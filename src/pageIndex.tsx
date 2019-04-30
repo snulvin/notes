@@ -14,6 +14,7 @@ export default [
       { 'id': 'session7', 'label': 'Session 7' },
       { 'id': 'session8', 'label': 'Session 8' },
       { 'id': 'session9', 'label': 'Session 9' },
+      { 'id': 'session10', 'label': 'Session 10' },
     ]
   },
   { 'id': 'geography', 'label': 'Geography', 'subcontent': [
