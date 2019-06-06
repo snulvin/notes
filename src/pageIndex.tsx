@@ -15,10 +15,12 @@ export default [
       { 'id': 'session8', 'label': 'Session 8' },
       { 'id': 'session9', 'label': 'Session 9' },
       { 'id': 'session10', 'label': 'Session 10' },
+      { 'id': 'session11', 'label': 'Session 11' },
     ]
   },
   { 'id': 'geography', 'label': 'Geography', 'subcontent': [
       { 'id': 'titansvale', 'label': 'Titan\'s vale' },
+      { 'id': 'tyria', 'label': 'Tyria' },
     ]
   }
 ];
